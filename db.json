@@ -10,23 +10,9 @@
     {
       "id": 2,
       "message": "Fixed hard drive on workstation 002",
-      "attention": false,
+      "attention": true,
       "tech": "John Doe",
       "date": "2019-05-31T16:18:04.245Z"
-    },
-    {
-      "id": 3,
-      "message": "Foo loo",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2021-01-17T15:01:14.641Z"
-    },
-    {
-      "message": "test",
-      "attention": true,
-      "tech": "אורי Baram",
-      "date": "2021-01-17T17:17:19.912Z",
-      "id": 4
     }
   ],
   "techs": [
@@ -36,8 +22,8 @@
       "lastName": "Doe"
     },
     {
-      "firstName": "אורי",
-      "lastName": "Baram",
+      "firstName": "Sam",
+      "lastName": "Smith",
       "id": 2
     }
   ]
